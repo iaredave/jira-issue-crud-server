@@ -2,5 +2,5 @@
 Java version: 1.8
 Atlassian-plugin-sdk-6.3.10/apache-maven-3.2.1
 
-﻿# To start
+## Start application
 atlas-run
